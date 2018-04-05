@@ -33,11 +33,11 @@ var bitLogger = bitLogger || (function bitLoggerModule() {
                 .split(whitespace);
 
         if (show.date && show.time) {
-                return dateTime.join(whitespace);
+            return dateTime.join(whitespace);
         } else if (show.date) {
-                return dateTime[0];
+            return dateTime[0];
         } else if (show.time) {
-                return dateTime[1];
+            return dateTime[1];
         }
     }
 
