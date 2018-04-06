@@ -4,7 +4,7 @@ Small logger module to write to the Javascript console
 ## Usage
 Just download the repo or the BitLogger.js file add it to your project and reference it!
 
-**__By default all messages show the Datetime (ISO) and level__** and the message, to change this you should modify the values in the show object to show only what you need, after that is pretty straight foward the use of the module to log the messages:
+**__By default all messages show the Datetime (ISO) and level__** and the message, to change this you should modify the values in the show object to display only what you need, after that is pretty straightforward the use of the module to log the messages
 
 ## Examples
 ```javascript
