@@ -1,4 +1,4 @@
-# Bit.Logger.Js
+# Bit.Logger
 Small logger module to write to the Javascript console
 
 ## Usage
